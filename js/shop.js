@@ -1,29 +1,4 @@
-  const products = [
-    {
-      id: "76304",
-      name: "Lux V-neck set",
-      price: 75000,
-      image: "76304.jpg"
-    },
-    {
-      id: "76318",
-      name: "Lux High Neck with zipper set",
-      price: 52500,
-      image: "76318.jpg"
-    },
-    {
-      id: "76319",
-      name: "Long Sleeve white coat unisex",
-      price: { min: 24000, max: 25000 },
-      image: "76319.jpg"
-    },
-    {
-      id: "76320",
-      name: "Lux v neck polyester scrub set",
-      price: 48500,
-      image: "76320.jpg"
-    }
-  ];
+
 
 
 /**
