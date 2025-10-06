@@ -21527,3 +21527,11 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 /*# sourceMappingURL=styles.css.map */
+
+
+
+.footer-logo img{
+      width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
